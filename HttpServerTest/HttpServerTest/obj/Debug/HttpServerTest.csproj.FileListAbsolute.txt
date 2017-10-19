@@ -1,0 +1,10 @@
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.csprojResolveAssemblyReference.cache
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.Form1.resources
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.Properties.Resources.resources
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.csproj.GenerateResource.Cache
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\bin\Debug\HttpServerTest.exe
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\bin\Debug\HttpServerTest.pdb
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\Interop.NetFwTypeLib.dll
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.csproj.ResolveComReference.cache
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.exe
+H:\百度云同步盘\外接项目\昆山一百计算机有限公司\HttpServer\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.pdb
